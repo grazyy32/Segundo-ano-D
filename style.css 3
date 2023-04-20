@@ -1,0 +1,7 @@
+header{background:#0ABFBC: color:blue;
+font-size: medium;
+font-family: verdana;}
+    .imagem { width:200 px ;
+position: relative;
+top: 50px;
+left:150px}
